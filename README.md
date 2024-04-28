@@ -60,7 +60,4 @@ REPTAR is a system that uses a recursive summarization approach to generate thou
 ```
 
 
-![image](https://github.com/EveryOneIsGross/REPTAR/assets/23621140/736d55a3-5a49-4a42-9dc9-10d058716ec1)
-
-
 
